@@ -1,0 +1,14 @@
+{
+    "name": "astropop",
+    "displayName": "AstroPop",
+    "dll": "AstroPop/content/www.popcap.com/AstroPop/astropop_1_3/astropop.dll",
+    "cab": "AstroPop/content/www.popcap.com/AstroPop/astropop_1_3.cab",
+    "params": {
+        "gamename": "astropop",
+        "partnername": "PopCap",
+        "displayname": "Astropop",
+        "showevery": "4",
+        "upsellurl": "",
+        "ShowUpsell": "false"
+    }
+}

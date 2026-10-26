@@ -1,0 +1,14 @@
+{
+    "name": "zuma",
+    "displayName": "Zuma",
+    "dll": "Zuma/content/www.popcap.com/Zuma/Plugin/zuma_1_4/Zuma.dll",
+    "cab": "Zuma/content/www.popcap.com/Zuma/Plugin/zuma_1_4.cab",
+    "params": {
+        "gamename": "zuma",
+        "partnername": "PopCap",
+        "displayname": "Zuma",
+        "levellimit": "16",
+        "upsellurl": "",
+        "ShowUpsell": "false"
+    }
+}

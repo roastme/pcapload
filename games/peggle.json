@@ -1,0 +1,18 @@
+{
+    "name": "peggle",
+    "displayName": "Peggle",
+    "dll": "Peggle/content/www.popcap.com/Peggle/peggle_1_1/Peggle.dll",
+    "cab": "Peggle/content/www.popcap.com/Peggle/peggle_1_1.cab",
+    "params": {
+        "gamename": "peggle",
+        "partnername": "PopCap",
+        "displayname": "Peggle",
+        "focuspause": "true",
+        "updatecab": "",
+        "extrasurl0": "pegextras0.cab",
+        "extrasurl1": "pegextras1.cab",
+        "extrasurl2": "pegextras2.cab",
+        "upsellurl": "http://www.popcap.com/games/peggle",
+        "ShowUpsell": "false"
+    }
+}

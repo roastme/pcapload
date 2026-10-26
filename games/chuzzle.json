@@ -1,0 +1,14 @@
+{
+    "name": "chuzzle",
+    "displayName": "Chuzzle",
+    "dll": "Chuzzle/content/www.popcap.com/Chuzzle/chuzzlex/Chuzzle.dll",
+    "cab": "Chuzzle/content/www.popcap.com/Chuzzle/chuzzlex.cab",
+    "params": {
+        "gamename": "chuzzle",
+        "partnername": "PopCap",
+        "displayname": "Chuzzle",
+        "showevery": "3",
+        "upsellurl": "",
+        "ShowUpsell": "false"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "bejeweled",
+    "displayName": "Bejeweled 2",
+    "dll": "Bejeweled2/content/www.popcap.com/Bejeweled2/Plugin/bejeweled2_1_2/Bejeweled2.dll",
+    "cab": "Bejeweled2/content/www.popcap.com/Bejeweled2/Plugin/bejeweled2_1_2.cab",
+    "params": {
+        "gamename": "bejeweled2",
+        "partnername": "PopCap",
+        "displayname": "Bejeweled 2",
+        "updatecab": "",
+        "extrasurl0": "bej2extras0.cab",
+        "extrasurl1": "bej2extras1.cab",
+        "extrasurl2": "bej2extras2.cab",
+        "extrasurl3": "bej2extras3.cab",
+        "extrasurl4": "bej2extras4.cab",
+        "upsellurl": "",
+        "ShowUpsell": "false"
+    }
+}

@@ -1,0 +1,27 @@
+# ---- build output ----
+*.obj
+*.exe
+*.exe.bak
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.res
+
+# ---- runtime output ----
+*.log
+*.lock
+
+# ---- local work dirs ----
+_tmp/
+_dumps/
+savedata/
+
+# ---- game data is never committed; only the descriptions are ----
+games/*
+!games/*.json
+games.7z
+
+# ---- local-only scratch files ----
+imp.bat
+src/main.c.retro

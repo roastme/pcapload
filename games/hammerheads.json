@@ -1,0 +1,13 @@
+{
+    "name": "hammerheads",
+    "displayName": "Hammer Heads",
+    "dll": "HammerHeads/content/www.popcap.com/HammerHeads/hammerheads_1_1/HammerHeads.dll",
+    "cab": "HammerHeads/content/www.popcap.com/HammerHeads/hammerheads_1_1.cab",
+    "params": {
+        "gamename": "hammerheads",
+        "partnername": "PopCap",
+        "displayname": "Hammer Heads",
+        "upsellurl": "",
+        "ShowUpsell": "false"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "bookwormadventures",
+    "displayName": "Bookworm Adventures",
+    "dll": "BookwormAdventures/content/www.popcap.com/BookwormAdventures/bookwormadventures_1_1/BookwormAdventures.dll",
+    "cab": "BookwormAdventures/content/www.popcap.com/BookwormAdventures/bookwormadventures_1_1.cab",
+    "params": {
+        "gamename": "BookwormAdventures",
+        "partnername": "PopCap",
+        "displayname": "Bookworm Adventures",
+        "chapter2url": "bwachapter2.cab",
+        "chapter3url": "bwachapter3.cab",
+        "chapter4url": "bwachapter4.cab",
+        "focuspause": "true",
+        "upsellurl": "",
+        "ShowUpsell": "false"
+    },
+    "createHookRva": "0x25d01",
+    "createHookReg": "esi"
+}

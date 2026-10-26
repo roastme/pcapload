@@ -1,0 +1,13 @@
+{
+    "name": "insaniquarium",
+    "displayName": "Insaniquarium",
+    "dll": "Insaniquarium/content/www.popcap.com/Insaniquarium/Plugin/insaniquarium_1_5/Insaniquarium.dll",
+    "cab": "Insaniquarium/content/www.popcap.com/Insaniquarium/Plugin/insaniquarium_1_5.cab",
+    "params": {
+        "gamename": "insaniquarium",
+        "partnername": "PopCap",
+        "displayname": "Insaniquarium",
+        "upsellurl": "",
+        "ShowUpsell": "false"
+    }
+}

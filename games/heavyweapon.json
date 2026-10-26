@@ -1,0 +1,14 @@
+{
+    "name": "heavyweapon",
+    "displayName": "Heavy Weapon",
+    "dll": "HeavyWeapon/content/www.popcap.com/HeavyWeapon/heavyweapon_1_1/HeavyWeapon.dll",
+    "cab": "HeavyWeapon/content/www.popcap.com/HeavyWeapon/heavyweapon_1_1.cab",
+    "params": {
+        "gamename": "heavyweapon",
+        "partnername": "PopCap",
+        "displayname": "Heavy Weapon",
+        "showevery": "3",
+        "upsellurl": "",
+        "ShowUpsell": "false"
+    }
+}

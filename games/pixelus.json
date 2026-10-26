@@ -1,0 +1,14 @@
+{
+    "name": "pixelus",
+    "displayName": "Pixelus",
+    "dll": "Pixelus/content/www.popcap.com/Pixelus/pixelus_1_4/pixelus.dll",
+    "cab": "Pixelus/content/www.popcap.com/Pixelus/pixelus_1_4.cab",
+    "params": {
+        "gamename": "pixelus",
+        "partnername": "PopCap",
+        "displayname": "Pixelus",
+        "upsellchecklimit": "5",
+        "upsellurl": "",
+        "ShowUpsell": "false"
+    }
+}

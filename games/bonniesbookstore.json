@@ -1,0 +1,13 @@
+{
+    "name": "bonniesbookstore",
+    "displayName": "Bonnie's Bookstore",
+    "dll": "BonniesBookstore/content/www.popcap.com/BonniesBookstore/bb_1_0/bonniesbookstore.dll",
+    "cab": "BonniesBookstore/content/www.popcap.com/BonniesBookstore/bb_1_0.cab",
+    "params": {
+        "gamename": "bonniesbookstore",
+        "partnername": "PopCap",
+        "displayname": "Bonnie's Bookstore",
+        "upsellurl": "",
+        "ShowUpsell": "false"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "rocketmania",
+    "displayName": "Rocket Mania",
+    "dll": "RocketMania/content/www.popcap.com/RocketMania/Plugin/rocketmania_1_0/RocketMania.dll",
+    "cab": "RocketMania/content/www.popcap.com/RocketMania/Plugin/rocketmania_1_0.cab",
+    "params": {
+        "gamename": "rocketmania",
+        "partnername": "PopCap",
+        "displayname": "Rocket Mania",
+        "upsellurl": "",
+        "ShowUpsell": "false"
+    }
+}

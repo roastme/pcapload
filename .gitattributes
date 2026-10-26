@@ -1,0 +1,16 @@
+* text=auto
+
+# Windows shell/script files must keep CRLF
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+# source and docs: LF
+*.c   text eol=lf
+*.h   text eol=lf
+*.md  text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.sh  text eol=lf
+
+# screenshots are binary
+*.png binary
